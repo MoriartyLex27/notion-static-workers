@@ -1,6 +1,6 @@
-name = "notion-kit-static"
+name = "cloudflare-alfa"
 type = "site"
-account_id = "your-cloudflare-account-id"
+account_id = "b4924956428925467d5a6ab7e0a11f32"
 workers_dev = true
 compatibility_date = "2025-05-14"
 
