@@ -1,0 +1,9 @@
+name = "notion-kit-static"
+type = "site"
+account_id = "your-cloudflare-account-id"
+workers_dev = true
+compatibility_date = "2025-05-14"
+
+[site]
+bucket = "./out"
+entry-point = "workers-site"
